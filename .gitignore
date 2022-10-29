@@ -1,0 +1,20 @@
+*.log
+*.lock
+nuxt.d.ts
+
+# private config
+.env
+
+# deps
+node_modules
+
+# build or generate
+.nuxt
+dist
+.husky
+.output
+.vscode
+
+# IDE
+.idea
+.vercel
